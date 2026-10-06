@@ -1137,6 +1137,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 
 *Enterprise-grade platforms for deploying AI agents at scale.*
 
+- [Kortix](https://kortix.com) - Open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work. One git repo holds the agents, skills, memory and 3,000+ connectors; every session runs on its own isolated Linux machine and each change lands as a reviewed diff. Self-host or managed cloud, any model with your own keys. Self-hosting guide: [opensourceclaudecowork.com](https://opensourceclaudecowork.com).
+
 - [GPTBots.ai LoopAgent](https://www.gprbots.ai/) - 🆕 **2026-08-03**. Production-grade execution engine for enterprise AI agents: sandboxed code execution, lazy-loaded Skills, versioned System Identity Prompt Diff, seamless human-handoff context summaries. ⚠️ Unverified (GlobeNewswire announcement; primary URL unverified).
 - [Salesforce Agentforce 360](https://www.salesforce.com/agentforce/what-is-new/) - Autonomous AI agents for enterprise CRM — sales, service, and marketing. **Spring 2026 release** ships Agentforce Builder (conversational agent authoring), Agent Script (deterministic behavior control), Agentforce Voice (Amazon Connect / Five9 / Genesys / NiCE / Vonage + SIP), and Intelligent Context on top of the new Data 360. Customers across 124 countries report ~85% autonomous query resolution.
 - [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio) - Build and customize AI agents and copilots for your organization.
